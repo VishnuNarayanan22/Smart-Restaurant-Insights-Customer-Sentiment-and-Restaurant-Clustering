@@ -1,3 +1,3 @@
-# Smart-Restaurant-Insights-Customer-Sentiment-and-Restaurant-Clustering
+# Zomato Restaurant Intelligence: Sentiment Analysis and Restaurant Segmentation
 
 This project focuses on analyzing customer reviews and restaurant data from Zomato to gain meaningful insights that can benefit both customers and restaurant businesses. The main goal of the project is to understand customer sentiment from reviews, identify patterns in restaurant performance, and segment restaurants into different groups using machine learning techniques. By analyzing the data, the project aims to help customers find the best restaurants while also helping businesses understand areas where they can improve.
